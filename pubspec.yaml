@@ -1,7 +1,7 @@
 name: f_logs
 description: FLog provides quick &amp; simple logging solution. All logs are
   saved to the DB which can then be exported in files.
-version: 1.4.0+1
+version: 1.4.1+1
 homepage: https://github.com/zubairehman/Flogs
 
 environment:
